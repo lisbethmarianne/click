@@ -1,0 +1,23 @@
+{
+  "name": "click",
+  "version": "1.0.0",
+  "description": "Tutorial by http://www.clementinejs.com/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisbethmarianne/click.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisbethmarianne/click/issues"
+  },
+  "homepage": "https://github.com/lisbethmarianne/click#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.14"
+  }
+}
